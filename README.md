@@ -1,7 +1,7 @@
 # 
 % Demo of "Multi-feature driven active contour segmentation model for infrared image with intensity inhomogeneity"
 
-% submitted to Optical and Quantum Electronics
+% Huang Q, Zhou W, Wan M, et al. Multi-feature driven active contour segmentation model for infrared image with intensity inhomogeneity[J]. Optical and Quantum Electronics, 2021, 53(7): 1-24.
 
 % Run main.m 
 

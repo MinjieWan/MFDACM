@@ -7,6 +7,3 @@ Huang Q, Zhou W, Wan M, et al. Multi-feature driven active contour segmentation 
 Run main.m 
 
 Please contact minjiewan1992@njust.edu.cn if you have any confusions. 
-
-
-
